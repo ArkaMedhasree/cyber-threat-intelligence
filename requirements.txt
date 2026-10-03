@@ -1,0 +1,8 @@
+google-genai
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+tabulate
